@@ -1,5 +1,14 @@
 # AI-Driven Inventory Optimization using Time-Series Forecasting
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-2.x-013243?logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.x-F7931E?logo=scikitlearn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/statsmodels-0.14-4B8BBE)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-11557C?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13-4C72B0)
+
 ## Overview
 This project builds an end-to-end inventory optimization pipeline using time-series forecasting. It generates multi-year daily sales data, cleans and analyzes it, forecasts demand with ARIMA and LSTM, and converts forecasts into reorder recommendations that reduce overstocking and stockouts.
 
