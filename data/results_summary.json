@@ -1,0 +1,19 @@
+{
+  "product_id": "P001",
+  "adf_test": {
+    "adf_stat": -1.2404539849158398,
+    "p_value": 0.6559559590962734,
+    "used_lag": 20,
+    "n_obs": 1074
+  },
+  "arima_order": [
+    2,
+    1,
+    2
+  ],
+  "arima_rmse": 11.893627571025974,
+  "arima_mae": 9.23616282696921,
+  "lstm_rmse": 12.435657144672788,
+  "lstm_mae": 9.724226036071776,
+  "inventory_cost_reduction_pct": 0.2212743365321181
+}

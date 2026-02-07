@@ -1,0 +1,16 @@
+SEED = 42
+
+# Data generation
+N_PRODUCTS = 5
+START_DATE = "2021-01-01"
+END_DATE = "2023-12-31"
+
+# Modeling
+TEST_DAYS = 60
+LSTM_WINDOW = 30
+LSTM_EPOCHS = 15
+LSTM_BATCH = 32
+
+# Inventory policy
+LEAD_TIME_DAYS = 7
+SERVICE_LEVEL_Z = 1.65
