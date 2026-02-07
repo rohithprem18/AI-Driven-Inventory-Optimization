@@ -65,7 +65,7 @@ The pipeline compares ARIMA vs LSTM on multi-year daily data. It produces error 
 - Improves service levels by preventing stockouts during demand spikes.
 - Provides a repeatable forecasting-and-policy loop that can be automated.
 
-## Interview Talking Points
+## Key Points
 - Translating demand forecasts into concrete reorder points with safety stock.
 - Comparing classical (ARIMA) and deep learning (LSTM) time-series models.
 - Quantifying business impact with cost-weighted mismatch metrics.
